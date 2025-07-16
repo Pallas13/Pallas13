@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=35&center=true&vCenter=true&width=1000&lines=¡Hola,+yo+soy+Pallas!;¡Bienvenido!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pallas13&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha&title_color=cdd6f4&text_color=bac2de" alt="Pallas Github Stats"/>
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pallas13&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha&title_color=cdd6f4&text_color=bac2de&locale=es" alt="Pallas Github Stats"/>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pallas13&theme=catppuccin-mocha&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
