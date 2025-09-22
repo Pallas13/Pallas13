@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=35&center=true&vCenter=true&width=1000&lines=¡Hola,+yo+soy+Pallas!;¡Bienvenido!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pallas13&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha&title_color=cdd6f4&text_color=bac2de&locale=es" alt="Pallas Github Stats"/>
-</div>
-
 ### Conhecimentos:
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
