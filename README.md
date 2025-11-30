@@ -12,11 +12,6 @@
 1. **Speech Processing (TTS/STT)**
 2. **Linux**
 
-### Idiomas
-1. **Português Brasileiro (Nativo)**
-2. **Espanhol (Básico)**
-3. **Inglês (Básico)**
-
 ### Contatos:
 E-Mail: edsondasilvaguedes0@gmail.com
 
