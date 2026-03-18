@@ -4,7 +4,9 @@
 
 # Apresentação
 
-Olá, eu sou Edson da Silva Guedes, ou podem chama-me de Pallas. Aqui você verá meus projetos que envolvem as áreas de processamento de linguagem natural como STT (Speech-to-Text), TTS (Text-to-Speech) e seus componetes, e meus projetos referente a sistemas baseado em Linux. Minha área de pesquisa/interesse é de Processamento de Fala (Speech Processamento), e minha área profissional é em Administrador de Sistemas focado em Linux. 
+Olá, eu sou Edson da Silva Guedes, ou podem chama-me de Pallas!
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Aqui você verá meus projetos que envolvem as áreas de processamento de linguagem natural como STT (**Speech-to-Text**), TTS (**Text-to-Speech**) e seus componetes, e meus projetos referente a sistemas baseado em Linux. Minha área de pesquisa/interesse é de Processamento de Fala (**Speech Processing**), e minha área profissional é em Administrador de Sistemas focado em Linux. 
 
 # Conhecimentos:
 
@@ -15,9 +17,9 @@ Olá, eu sou Edson da Silva Guedes, ou podem chama-me de Pallas. Aqui você ver�
 
 # Interesses:
 
-1. Processamento de Linguagem Natural.
-2. Suporte técnico em Sistemas Baseados em Linux.
-3. Desenvolvimento em Platforma Linux.
+- Processamento de Linguagem Natural.
+- Suporte técnico em Sistemas Baseados em Linux.
+- Desenvolvimento em Plataforma Linux.
 
 # Contatos:
 E-Mail: edsondasilvaguedes0@gmail.com
