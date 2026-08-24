@@ -24,6 +24,6 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade
 - Analista de Suporte de TI.
 
 # Contatos:
-E-Mail: edsondasilvaguedes0@gmail.com
+E-Mail: pallassilvaguedes0@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer"/>
